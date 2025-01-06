@@ -13,7 +13,7 @@ TODO: replace all "haitian-template" with your project's own information
 ## 🥞 Tech Stack
 
 - **Bundler**: Vite
-- **CSS**:
+- **CSS**: TailwindCSS, PostCSS
 - **JS Framework**: ReactJS
 - **Type Check**: TypeSript
 - others...
